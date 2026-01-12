@@ -25,7 +25,7 @@ To conduct the revenue analysis, the following assumption was made based on stan
 * **Variant B:** ~76,474 DAU
 * *Insight:* Variant B starts with lower Day 1 retention but decays slower (higher D14 retention), allowing it to accumulate more active users over time.
 
-![DAU Projection Trend](Task1\Outputs\DAUprojection.png)
+![DAU Projection Trend](Outputs/DAUprojection.png)
 
 ### b) Revenue Projection (Day 15)
 **Winner:** **Variant A**
@@ -33,7 +33,7 @@ To conduct the revenue analysis, the following assumption was made based on stan
 * **Variant B:** ~$41,208
 * *Insight:* Despite having fewer users, Variant A generates more revenue in the first two weeks due to a significantly higher **Ad Impressions per DAU** (2.3 vs 1.6), which offsets the lower retention.
 
-![Cumulative Revenue Race, 15 Days](Task1\utputs\CumRevenueRace15.png)
+![Cumulative Revenue Race, 15 Days](Outputs/CumRevenueRace15.png)
 
 ### c) Revenue Projection (Day 30)
 **Winner:** **Variant A**
@@ -41,21 +41,21 @@ To conduct the revenue analysis, the following assumption was made based on stan
 * **Variant B:** ~$109,307
 * *Insight:* The trend holds. Variant A's aggressive ad strategy generates more total value over 30 days, even though Variant B has a healthier retention curve.
 
-![Cumulative Revenue Race, 30 Days](Task1\Outputs\CumRevenueRace30.png)
+![Cumulative Revenue Race, 30 Days](Outputs/CumRevenueRace30.png)
 
 ### d) Impact of 10-Day Sale
 *Scenario: A 1% boost to Purchase Rate from Day 15–24.*
 * **Result:** Revenue increases to **~$122,767** (Variant A).
 * **Impact:** A significant short-term lift that makes this the highest *total revenue* option within the specific 30-day window.
 
-![Impact of 10 Day Sale](Task1\Outputs\Sale.png)
+![Impact of 10 Day Sale](Outputs/Sale.png)
 
 ### e) Impact of New User Source
 *Scenario: Adding a high-retention user source (12k Old / 8k New) starting Day 20.*
 * **Result:** Revenue is **~$117,923** (Variant A).
 * **Impact:** Lower than the "Sale" scenario within the first 30 days because the new source only enters the simulation for the final 10 days.
 
-![New User Source Revenue](Task1\Outputs\NewUserSource.png)
+![New User Source Revenue](TOutputs/NewUserSource.png)
 
 ---
 
@@ -67,7 +67,7 @@ While the **10-Day Sale** generates higher revenue within the strict 30-day simu
 
 The **New User Source** represents a permanent structural improvement to the game's economy. The superior retention of the new users improves **Lifetime Value (LTV)**, meaning the value of this option will compound and surpass the temporary sale in Month 2 and Month 3. For long-term growth, retention is the priority.
 
-![Strategic Comparison](Task1\Outputs\Comparison.png)
+![Strategic Comparison](Outputs/Comparison.png)
 
 ---
 
