@@ -18,7 +18,9 @@ This repository contains the complete solution for the **Data Analyst Case Study
 │   ├── Data/                  # (Gitignored) Raw CSV files
 │   └── Outputs/               # Key charts (Heatmaps, Lift charts, Archetypes)
 │
-└── README.md                  # (You are here)
+├── READMEmd                     
+├── .gitignore                 # Datasets are ignored, for size concerns
+└── Case Study PDF
 ```
 
 ---
