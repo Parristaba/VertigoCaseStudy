@@ -4,7 +4,7 @@ This repository contains the complete solution for the **Data Analyst Case Study
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── Task1/                     # A/B Test Simulation & Revenue Projection
@@ -25,7 +25,7 @@ This repository contains the complete solution for the **Data Analyst Case Study
 
 ---
 
-## 🚀 Overview of Modules
+##  Overview of Modules
 
 ### Task 1: Simulation & Revenue Projection
 
@@ -41,7 +41,7 @@ This repository contains the complete solution for the **Data Analyst Case Study
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 To run the notebooks, ensure the following Python libraries are installed:
 
